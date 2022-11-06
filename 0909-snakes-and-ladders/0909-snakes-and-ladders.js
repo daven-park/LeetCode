@@ -13,13 +13,10 @@ var snakesAndLadders = function(board) {
         
         let [row, col] = getPos(label, n);
         
-        if(board[row][col] !== -1){ // 사다리 또는 뱀
-            label = board[row][col]; // 해당 위치로 이동
-        }
+        if(board[row][col] !== -1) label = board[row][col]; // 사다리 또는 뱀해당 위치로 이동
         
-        if(label === n * n){ // 게임 종료
-            return step;
-        }
+        if(label === n * n) return step; // 게임 종료
+        
         for(let i = 1; i < 7; i++){
             let next = label + i;   // 
             if(next <= n * n && !visited.has(next)){
