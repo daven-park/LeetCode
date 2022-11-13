@@ -1,7 +1,7 @@
 
 var Twitter = function() {
-    this.tweets = [];
-    this.follows = {};
+    this.tweets = [];   // 게시물
+    this.follows = {};  // 팔로우 관리
 };
 
 /** 
@@ -11,7 +11,6 @@ var Twitter = function() {
  */
 Twitter.prototype.postTweet = function(userId, tweetId) {
    this.tweets.push({user:userId, tweet:tweetId});
-    
 };
 
 /** 
@@ -21,16 +20,17 @@ Twitter.prototype.postTweet = function(userId, tweetId) {
 Twitter.prototype.getNewsFeed = function(userId) {
     let checkUsers = this.follows[userId];
     
-    if(!checkUsers) checkUsers = [];
+    if(!checkUsers) checkUsers = [];    // 초기화
+    
     checkUsers.push(userId);
     
     let result = [];
     
     for(let tweet of this.tweets){
-        if(checkUsers.includes(tweet.user)) result.unshift(tweet.tweet);
+        if(checkUsers.includes(tweet.user)) result.unshift(tweet.tweet);    // 현재 user가 팔로우하고 있는 유저의 게시물 맨 앞줄에 추가
     }
     
-    return result.length > 10 ? result.slice(0, 10) : result;
+    return result.length > 10 ? result.slice(0, 10) : result;   // 게시물 개수 10 제한
 };
 
 /** 
