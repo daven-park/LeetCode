@@ -27,7 +27,7 @@ Twitter.prototype.getNewsFeed = function(userId) {
     let result = [];
     
     for(let tweet of this.tweets){
-        if(checkUsers.includes(tweet.user)) result.unshift(tweet.tweet);    // 현재 user가 팔로우하고 있는 유저의 게시물 맨 앞줄에 추가
+        if(checkUsers.includes(tweet.user)) result.unshift(tweet.tweet);    // 현재 user가 팔로우하고 있는 user의 게시물 맨 앞줄에 추가
     }
     
     return result.length > 10 ? result.slice(0, 10) : result;   // 게시물 개수 10 제한
