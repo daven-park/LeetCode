@@ -39,7 +39,7 @@ Twitter.prototype.getNewsFeed = function(userId) {
  * @return {void}
  */
 Twitter.prototype.follow = function(followerId, followeeId) {
-    if(!this.follows[followerId]) this.follows[followerId] = [followeeId];
+    if(!this.follows[followerId]) this.follows[followerId] = [followeeId];  
     else this.follows[followerId].push(followeeId);
 };
 
