@@ -4,9 +4,8 @@
  */
 var makesquare = function(matchsticks) {
     let sum = 0;
-    for(let n of matchsticks){
-        sum += n;
-    }
+    for(let n of matchsticks) sum += n;
+    
     
     if(matchsticks.length < 4 || sum % 4 !== 0) return false;
     
@@ -14,7 +13,7 @@ var makesquare = function(matchsticks) {
     
     let checked = new Array(4).fill(0);
     
-    return solve(0)
+    return solve(0);
     
     function solve(x){
         if(x === matchsticks.length){
