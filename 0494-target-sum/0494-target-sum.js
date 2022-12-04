@@ -12,15 +12,13 @@ var findTargetSumWays = function(nums, target) {
             return 0;
         }
         
-        if(!dp[i]) dp[i] = {};
-        else{
+        if(!dp[i]) {
+            dp[i] = {};
+        }else {
             if (dp[i][sum] !== undefined) return dp[i][sum];
         }
-
+        
         return dp[i][sum] = dfs(i + 1, sum + nums[i]) + dfs(i + 1, sum - nums[i]);
-
     }
     return dfs(0, 0);
-
-    
 };
