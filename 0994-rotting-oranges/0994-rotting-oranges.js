@@ -6,7 +6,7 @@ var orangesRotting = function(grid) {
     let queue = [];
     let time = 0;
     let orange = 0;
-    for (let i=0; i < grid.length; i++) {
+    for (let i = 0; i < grid.length; i++) {
         for (let j = 0; j < grid[0].length; j++) {
             if (grid[i][j] === 1) orange++;
             if (grid[i][j] === 2) queue.push([i, j]);
