@@ -18,7 +18,7 @@ var findTheDistanceValue = function(arr1, arr2, d) {
                 flag = false;
                 break;
             }else if(arr2[mid] > arr1[i]){
-                right = mid -1
+                right = mid -1;
             }else {
                 left = mid + 1;
             }
