@@ -3,11 +3,15 @@
  * @return {number}
  */
 var mySqrt = function(x) {
-    if (x === 0) return 0;
+   let start = 0, end = x, mid = 0;
+    while(start < end){
+        mid = parseInt((start + end) / 2 );
+        console.log(mid)
+        if(mid * mid === x) return mid;
+        
+        if(x < mid * mid) end = mid - 1;
+        else start = mid + 1;
+    }
     
-  for(let i = 1; i <= x; i++){
-      let root = Math.floor(i * i) 
-      let next = Math.floor((i + 1) * (i + 1));
-      if( root <= x && next > x) return i;
-  }  
+    return x < end * end ? end - 1 : end;
 };
