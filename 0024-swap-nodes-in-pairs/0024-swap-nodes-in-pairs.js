@@ -10,8 +10,8 @@
  * @return {ListNode}
  */
 var swapPairs = function(head) {
-    let start = new ListNode(); 
-    start = head;  
+    let point = new ListNode(); 
+    point = head;  
     while(head && head.next ){ 
         let temp = head.val;                              
         head.val = head.next.val;                     
@@ -19,5 +19,5 @@ var swapPairs = function(head) {
         head.val = temp;                                
         head = head.next;                            
     }
-    return start;       
+    return point;       
 };
