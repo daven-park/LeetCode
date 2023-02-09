@@ -15,6 +15,7 @@ var addTwoNumbers = function(l1, l2) {
     let head = start;           // 주소 등록
     let sum = 0;
     let beyond = 0;
+    
     while(l1 || l2 || sum > 0){
      
         if(l1){
@@ -39,5 +40,4 @@ var addTwoNumbers = function(l1, l2) {
         beyond = 0;
     }
     return start.next;
-    
 };
