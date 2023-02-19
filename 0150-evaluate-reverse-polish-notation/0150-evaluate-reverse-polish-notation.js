@@ -17,13 +17,14 @@ var evalRPN = function(tokens) {
     })
     return stack.pop();
 };
-   const calc = (fir, sec, token) => {
-        switch(token) {
-            case '+' : return fir + sec;
-            case '-' : return fir - sec;
-            case '*' : return fir * sec;
-            case '/' : return fir / sec | 0;
-        }
+
+const calc = (fir, sec, token) => {
+    switch(token) {
+        case '+' : return fir + sec;
+        case '-' : return fir - sec;
+        case '*' : return fir * sec;
+        case '/' : return fir / sec | 0;
     }
-    
+}
+
 
