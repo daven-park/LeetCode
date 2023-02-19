@@ -4,7 +4,6 @@
  */
 var evalRPN = function(tokens) {
     const stack = [];
-    
 
     tokens.forEach(token => {
         if(/^[+\-*/]$/.test(token)){    // regex
@@ -12,9 +11,9 @@ var evalRPN = function(tokens) {
             let fir = stack.pop();
             stack.push(calc(fir, sec, token));
         }else {
-            stack.push(+token)
+            stack.push(+token);
         }
-    })
+    });
     return stack.pop();
 };
 
