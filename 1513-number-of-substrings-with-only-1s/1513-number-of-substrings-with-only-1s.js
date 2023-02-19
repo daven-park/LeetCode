@@ -8,7 +8,8 @@ var numSub = function(s) {
     
     let sum = 0;
     for(let n of arr){
-        sum += Math.floor((n.length * (n.length + 1)) / 2) % mod;
+        let N = n.length;
+        sum += Math.floor((N * (N + 1)) / 2) % mod;   // n * (n + 1) / 2
     }
     return sum;
 };
