@@ -7,7 +7,7 @@ var evalRPN = function(tokens) {
     
 
     tokens.forEach(token => {
-        if(/^[+\-*/]$/.test(token)){
+        if(/^[+\-*/]$/.test(token)){    // regex
             let sec = stack.pop();
             let fir = stack.pop();
             stack.push(calc(fir, sec, token));
