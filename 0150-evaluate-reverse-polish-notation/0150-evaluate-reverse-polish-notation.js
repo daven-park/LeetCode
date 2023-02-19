@@ -18,8 +18,8 @@ var evalRPN = function(tokens) {
     return stack.pop();
 };
 
-const calc = (fir, sec, token) => {
-    switch(token) {
+const calc = (fir, sec, op) => {
+    switch(op) {
         case '+' : return fir + sec;
         case '-' : return fir - sec;
         case '*' : return fir * sec;
