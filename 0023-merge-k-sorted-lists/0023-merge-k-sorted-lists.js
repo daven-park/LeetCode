@@ -22,7 +22,7 @@ var mergeKLists = function(lists) {
     
     let head  = new ListNode();
   
-    let listNode = head ;
+    let listNode = head;
     
     listOfValues.map(x => {
         listNode.next = new ListNode(x, null);
