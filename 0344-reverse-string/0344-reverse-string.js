@@ -4,8 +4,6 @@
  */
 var reverseString = function(s) {
     // return s.reverse();
-    
-    let temp = [];
     let left = 0;
     let right = s.length - 1
     
