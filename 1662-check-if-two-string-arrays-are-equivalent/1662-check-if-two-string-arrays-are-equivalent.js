@@ -12,9 +12,6 @@ var arrayStringsAreEqual = function(word1, word2) {
         return str;
     }
     
-    if(getString(word1) === getString(word2)){
-       return true;
-   }else {
-        return false;
-    }
+    if(getString(word1) === getString(word2)) return true;
+    return false;
 };
