@@ -1,12 +1,7 @@
 class Solution {
     public String mergeAlternately(String word1, String word2) {
        String str = "";
-        int len = 0;
-        if(word1.length() < word2.length()){
-            len = word2.length();
-        }else {
-            len = word1.length();
-        }
+        int len = word1.length() < word2.length() ? word2.length() : word1.length();
         
         for(int i = 0; i < len; i++){
             if(word1.length() - 1 >= i){
