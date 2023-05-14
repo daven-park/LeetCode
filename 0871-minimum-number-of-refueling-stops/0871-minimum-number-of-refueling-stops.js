@@ -5,20 +5,14 @@
  * @return {number}
  */
 var minRefuelStops = function(target, startFuel, stations) {
-    const dp = Array(stations.length + 1).fill(0);
-    dp[0] = startFuel;
-
-    for(let i = 0; i < stations.length; i++){
-        for(let k = i; k >= 0; k--){
-            if(dp[k] >= stations[i][0]){
-                dp[k + 1] = Math.max(dp[k + 1], dp[k] + stations[i][1])
-            }
+    let n = stations.length, pq = new MaxPriorityQueue(), ans = 0
+    for (let i = 0; i <= n; i++) {
+        let dist = i === n ? target : stations[i][0]
+        while (startFuel < dist) {
+            if (!pq.size()) return -1
+            startFuel += pq.dequeue().element, ans++
         }
+        if (i < n) pq.enqueue(stations[i][1])
     }
-
-    for(let i = 0; i < dp.length; i++){
-        if(dp[i] >= target) return i;
-    }
-
-    return -1;
-};
+    return ans
+}
