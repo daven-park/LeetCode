@@ -12,12 +12,11 @@
 var FindElements = function(root) {
     this.set = new Set()
     
-    let recover = (root, val) =>{
+    const recover = (root, val) =>{
         this.set.add(val);
-        if(root.left != null)   recover(root.left, val * 2 + 1)
-        if(root.right != null)  recover(root.right, val * 2 + 2)
+        if(root.left != null) recover(root.left, val * 2 + 1)
+        if(root.right != null) recover(root.right, val * 2 + 2)
     }
-    
     recover(root, 0)
 };
 
