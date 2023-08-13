@@ -4,16 +4,11 @@ class UnionFind {
     }
 
     makeSet(n) {
-        for(let i = 1; i <= n; i++) {
-            this.parent[i] = i;
-        }
+        for(let i = 1; i <= n; i++) this.parent[i] = i;
     }
 
     find(x) {
-        if(this.parent[x] === x) {
-            return x;
-        }
-        return this.find(this.parent[x]);
+        return this.parent[x] === x ? x : this.find(this.parent[x]);
     }
 
     union(x, y) {
