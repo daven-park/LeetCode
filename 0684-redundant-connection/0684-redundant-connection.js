@@ -31,22 +31,13 @@ class UnionFind {
  */
 var findRedundantConnection = function(edges) {
     const unionFind = new UnionFind();
-    
-    const len = edges.length;
     let last = null;
 
-    unionFind.makeSet(len);
+    unionFind.makeSet(edges.length);
 
     for(let i = 0; i < edges.length; i++) {
-
         const x = unionFind.find(edges[i][0]);
         const y = unionFind.find(edges[i][1]);
-
-        // if(x === y) {
-        //     last = edges[i];
-        // } else {
-        //     unionFind.union(x, y);
-        // }
         
         x === y ? last = edges[i] : unionFind.union(x, y);
     }
