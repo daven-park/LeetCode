@@ -36,6 +36,5 @@ var findRedundantConnection = function(edges) {
         
         x === y ? last = edges[i] : unionFind.union(x, y);
     }
-
     return last;
 };
