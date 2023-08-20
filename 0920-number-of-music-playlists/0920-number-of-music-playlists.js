@@ -13,8 +13,8 @@ var numMusicPlaylists = function(n, goal, k) {
 
     for (let i = 1; i <= goal; i++) {
         for (let j = 1; j <= n; j++) {
-            dp[i][j] += dp[i-1][j-1] * (n - (j - 1));
-            dp[i][j] += dp[i-1][j] * Math.max(0, j - k);
+            dp[i][j] += dp[i - 1][j - 1] * (n - (j - 1));
+            dp[i][j] += dp[i - 1][j] * Math.max(0, j - k);
             dp[i][j] %= mod;
         }
     }
