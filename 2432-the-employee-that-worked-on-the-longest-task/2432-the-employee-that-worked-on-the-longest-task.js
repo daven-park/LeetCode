@@ -9,12 +9,12 @@ var hardestWorker = function(n, logs) {
     
     let prev = 0;
     for(task of logs) {
-        let complete = task[1] - prev;
-        if(complete > bestTaskTime){
-            bestTaskTime = complete;
+        let completeTime = task[1] - prev;
+        if(completeTime > bestTaskTime){
+            bestTaskTime = completeTime;
             id = task[0];
         }
-        if(complete == bestTaskTime && task[0] < id){
+        if(completeTime == bestTaskTime && task[0] < id){
             id = task[0];
         }
         prev = task[1];
