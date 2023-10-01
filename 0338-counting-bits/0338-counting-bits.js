@@ -3,9 +3,14 @@
  * @return {number[]}
  */
 var countBits = function(n) {
-    let ans = [0];
-    for(let i = 1; i <= n; i++){
-        ans.push(ans[i >> 1] + (i & 1));
+    let arr = [];
+    for (let i = 0; i <= n; i++) {
+        let temp = 0;
+        const bin = i.toString(2);
+        for (let j = 0; j < bin.length; j++) {
+            temp += Number(bin[j]);
+        }
+        arr.push(temp);
     }
-    return ans;
+    return arr;
 };
