@@ -9,7 +9,6 @@ var isPossible = function(nums) {
         let next = nums[i]
         let flag = true;
         for(let j = stack.length - 1; j >= 0; j--){
-            //top이랑 같은 수는 넘어간다.
             if(stack[j] === next) {
                 stack[j] = next + 1;
                 answer[j]++;
