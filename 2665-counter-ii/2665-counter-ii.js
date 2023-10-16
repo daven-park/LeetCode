@@ -3,16 +3,19 @@
  * @return { increment: Function, decrement: Function, reset: Function }
  */
 var createCounter = function(init) {
-    let count = init;
-    let resetV = init;
+    let val = init;
     
-    let obj = {
-        increment: () => ++count,
-        decrement: () => --count,
-        reset: () => count = resetV 
+    return { 
+        increment : () => {
+             return ++val;
+        },
+        reset : () => {
+             return val = init;
+        },
+        decrement : () => {
+             return --val;
+        }
     }
-    
-    return obj;
 };
 
 /**
