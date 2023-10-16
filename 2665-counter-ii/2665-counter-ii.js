@@ -5,13 +5,13 @@
 var createCounter = function(init) {
     let val = init;
     
-    return { 
-        increment : () => ++val
-        ,
-        reset : () => val = init
-        ,
-        decrement : () => --val
-    }
+    const increment = () => ++val;
+        
+    const reset = () => val = init;
+    
+    const decrement = () => --val;
+
+    return {increment, reset, decrement}
 };
 
 /**
