@@ -28,7 +28,8 @@ RangeModule.prototype.addRange = function(left, right) {
  */
 RangeModule.prototype.queryRange = function(left, right) {
     let low = 0;
-    let high = this.intervals.length-1;
+    let high = this.intervals.length - 1;
+    
     while(low <= high) {
         let mid = low + (Math.floor((high - low) / 2));
         if(this.intervals[mid][0] <= left && this.intervals[mid][1] >= right) {
@@ -49,9 +50,9 @@ RangeModule.prototype.queryRange = function(left, right) {
  */
 RangeModule.prototype.removeRange = function(left, right) {
     let i = 0;
-    while(i < this.intervals.length && this.intervals[i][1] < left) {
-        i++;
-    }
+    
+    while(i < this.intervals.length && this.intervals[i][1] < left) i++;
+    
     if(i < this.intervals.length && this.intervals[i][0] < left) {
         let newIntervalBefore = [this.intervals[i][0], left];
         if(right < this.intervals[i][1]) {
@@ -62,9 +63,9 @@ RangeModule.prototype.removeRange = function(left, right) {
         this.intervals.splice(i, 1, newIntervalBefore);
         i++;
     }
-    while(i < this.intervals.length && right >= this.intervals[i][1]) {
-        this.intervals.splice(i, 1);
-    }
+    
+    while(i < this.intervals.length && right >= this.intervals[i][1]) this.intervals.splice(i, 1);
+    
     if(i < this.intervals.length && right > this.intervals[i][0]) {
         let newIntervalAfter = [right, this.intervals[i][1]];
         this.intervals.splice(i, 1, newIntervalAfter);
