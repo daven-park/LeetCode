@@ -48,13 +48,12 @@ RangeModule.prototype.queryRange = function(left, right) {
  * @return {void}
  */
 RangeModule.prototype.removeRange = function(left, right) {
-     let i = 0;
+    let i = 0;
     while(i < this.intervals.length && this.intervals[i][1] < left) {
         i++;
     }
     if(i < this.intervals.length && this.intervals[i][0] < left) {
         let newIntervalBefore = [this.intervals[i][0], left];
-        // the interval to delete is between one of the intervals
         if(right < this.intervals[i][1]) {
             let newIntervalAfter = [right, this.intervals[i][1]];
             this.intervals.splice(i, 1, newIntervalBefore, newIntervalAfter);
