@@ -1,6 +1,10 @@
 const minus_mod = (x, y, mod) => ((x - y) % mod + mod) % mod;
 const mod = 1e9 + 7, ll = BigInt;
-
+/**
+ * @param {string} low
+ * @param {string} high
+ * @return {number}
+ */
 const countSteppingNumbers = (low, high) => {
     let x = go(high), y = go((ll(low) - 1n).toString());
     return minus_mod(x, y, mod);
