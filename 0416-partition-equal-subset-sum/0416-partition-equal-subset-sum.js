@@ -12,7 +12,7 @@ var canPartition = function(nums) {
     
     dp[0] = true;
     
-    for (let i = 0; i < nums.length; ++ i) {
+    for (let i = 0; i < nums.length; i++) {
         let num = nums[i];
         for (let j = half; j >= num; --j) dp[j] = dp[j] || dp[j - num];
     }
