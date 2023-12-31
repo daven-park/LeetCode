@@ -4,9 +4,9 @@
  * @return {number[]}
  */
 var maxSlidingWindow = function(nums, k) {
-    const res = [];
-    const q = []; 
-    const n = nums.length;
+    let result = [];
+    let q = []; 
+    let n = nums.length;
 
     for (let i = 0; i < n; i++) {
         while (q.length > 0 && nums[i] > nums[q[q.length - 1]]) {
@@ -19,8 +19,8 @@ var maxSlidingWindow = function(nums, k) {
         }
 
         if (i >= k - 1) {
-          res.push(nums[q[0]]);
+          result.push(nums[q[0]]);
         }
     }
-    return res;
+    return result;
 };
