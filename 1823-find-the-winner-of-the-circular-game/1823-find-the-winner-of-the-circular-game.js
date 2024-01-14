@@ -6,7 +6,7 @@
 var findTheWinner = function(n, k) {
     let q = [];
     
-    for(let i = 1; i <= n;i++) q.push(i);
+    for(let i = 1; i <= n; i++) q.push(i);
 
     while(q.length > 1){
         let cnt = k - 1;
