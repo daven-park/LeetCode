@@ -11,14 +11,14 @@
  * @return {TreeNode}
  */
 var bstFromPreorder = function(preorder) {
-     let recursive = function(lower, upper) {
-        if (preorder[0] < lower || preorder[0] > upper) return null;
+     let recursive = (low, up) => {
+        if (preorder[0] < low || preorder[0] > up) return null;
         if (preorder.length == 0) return null;
          
         let root = new TreeNode(preorder.shift());
          
-        root.left = recursive(lower, root.val);
-        root.right = recursive(root.val, upper);
+        root.left = recursive(low, root.val);
+        root.right = recursive(root.val, up);
          
         return root;
     }
