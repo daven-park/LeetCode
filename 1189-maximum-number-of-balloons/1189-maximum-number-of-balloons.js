@@ -7,7 +7,5 @@ var maxNumberOfBalloons = function(text) {
     
     for (const ch of text) if (ch in obj) obj[ch]++;
     
-    const res = [obj['b'], obj['a'], obj['l'] / 2, obj['o'] / 2, obj['n']]
-
-    return Math.floor(Math.min(...res))
+    return Math.floor(Math.min(...[obj['b'], obj['a'], obj['l'] / 2, obj['o'] / 2, obj['n']]));
 };
