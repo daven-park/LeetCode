@@ -10,14 +10,14 @@ var findRightInterval = function(intervals) {
     intervalsIdx.sort((a, b) => a[0] - b[0]);
     
     for (let i = 0; i < len; i++) {
-        const currentIntervalEnd = intervals[i][1];
+        const current = intervals[i][1];
         let left = 0;
         let right = len - 1;
         let target = -1;
         
         while (left <= right) {
             const mid = Math.floor((left + right) / 2);
-            if (intervalsIdx[mid][0] >= currentIntervalEnd) {
+            if (intervalsIdx[mid][0] >= current) {
                 target = intervalsIdx[mid][1];
                 right = mid - 1;
             } else {
