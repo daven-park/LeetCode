@@ -17,10 +17,10 @@ var levelOrderBottom = function(root) {
     let res = [];
     
     while (queue.length) {
-        let size = queue.length;
+        let len = queue.length;
         let currentLevel = [];
         
-        for (let i = 0; i < size; i++) {
+        for (let i = 0; i < len; i++) {
             let curr = queue.shift()
             currentLevel.push(curr.val)
             if (curr.left) queue.push(curr.left)
