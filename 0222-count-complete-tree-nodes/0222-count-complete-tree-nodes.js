@@ -11,7 +11,6 @@
  * @return {number}
  */
 var countNodes = function(root) {
-   
     let num = [0];
     
     const traversal = (root, num) => {
@@ -22,5 +21,6 @@ var countNodes = function(root) {
         traversal(root.right, num);
     }
     traversal(root, num);
+    
     return num[0];
 };
