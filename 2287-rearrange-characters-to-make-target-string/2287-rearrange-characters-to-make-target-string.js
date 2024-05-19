@@ -3,10 +3,10 @@
  * @param {string} target
  * @return {number}
  */
-var rearrangeCharacters = function(s, target) {
-    
+var rearrangeCharacters = function(s, target) {  
     let smap = {};
     let tmap = {};
+    
     let max = Infinity;
     
     for(let el of s) smap[el] = (smap[el] || 0) + 1;
