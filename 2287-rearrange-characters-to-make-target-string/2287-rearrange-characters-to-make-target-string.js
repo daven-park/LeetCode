@@ -18,9 +18,8 @@ var rearrangeCharacters = function(s, target) {
     }
 
     for(let el in tmap){
-        if(!smap[el] || (smap[el] < tmap[el])){
-            return 0
-        }
+        if(!smap[el] || (smap[el] < tmap[el])) return 0;
+    
         max = Math.min(max,Math.floor(smap[el]/tmap[el]))
     }
 
