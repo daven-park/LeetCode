@@ -14,9 +14,7 @@ var getWinner = function(arr, k) {
             wins = 1;
             ans = arr[i];
         }
-        
         if (wins == k) break;
     }
-    
     return ans;
 };
