@@ -7,10 +7,11 @@ var beautySum = function(s) {
     for (let i = 0; i < s.length; i++) {
         let map = new Map();
         for (let j = i; j < s.length; j++) {
-            const cur = s[j]
+            const cur = s[j];
             map.set(cur, (map.get(cur) || 0) + 1);
 
-            let arr = Array.from(map.values())
+            let arr = Array.from(map.values());
+            
             max = Math.max(...arr);
             min = Math.min(...arr);
 
