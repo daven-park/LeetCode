@@ -10,8 +10,8 @@ var restoreArray = function(adjacentPairs) {
         graph[v1] = graph[v1] || [];
         graph[v2] = graph[v2] || [];
         
-        graph[v1].push(String(v2));
-        graph[v2].push(String(v1));
+        graph[v1].push(v2.toString());
+        graph[v2].push(v1.toString());
         
         edges[v1] = (edges[v1] || 0) + 1;
         edges[v2] = (edges[v2] || 0) + 1;
