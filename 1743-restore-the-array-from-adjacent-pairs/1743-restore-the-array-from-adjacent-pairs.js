@@ -25,7 +25,7 @@ var restoreArray = function(adjacentPairs) {
     }
     
     const dfs = (ans, curr, parent, graph) => {
-        ans.push(Number(curr));
+        ans.push(+curr);
 
         for (const next of graph[curr]) {
             if (next === parent) continue;
