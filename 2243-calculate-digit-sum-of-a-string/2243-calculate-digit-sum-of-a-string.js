@@ -8,7 +8,7 @@ var digitSum = function(s, k) {
         let x = 0;
         let sum = [0];
         for(let i = 0; i < s.length; i++){
-            if(i % k == 0 && i != 0) sum[++x] = 0;
+            if(i % k === 0 && i !== 0) sum[++x] = 0;
             sum[x] += +s[i];
         }
         s = sum.join("");
