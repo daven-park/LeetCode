@@ -10,7 +10,6 @@ var kthSmallestPrimeFraction = function(arr, k) {
             ans.push([arr[i], arr[j]]);
         }
     }
-    
     ans.sort((a, b) => (a[0] / a[1]) - (b[0] / b[1]));
     
     return [ans[k - 1][0], ans[k - 1][1]]
