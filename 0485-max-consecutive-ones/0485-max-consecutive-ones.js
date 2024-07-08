@@ -14,7 +14,5 @@ var findMaxConsecutiveOnes = function(nums) {
         cnt++;
     }
     res = Math.max(res, cnt);
-
     return res;
-    
 };
