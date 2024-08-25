@@ -15,7 +15,7 @@ var findMinDifference = function(timePoints) {
 
     let min = Infinity;
 
-    for(let i = 1; i< time.length; i++){
+    for(let i = 1; i < time.length; i++){
         min = Math.min(min, time[i] - time[i - 1]);
     }
     return min;
