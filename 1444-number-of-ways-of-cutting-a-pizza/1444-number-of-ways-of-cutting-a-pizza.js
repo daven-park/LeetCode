@@ -15,11 +15,11 @@ var ways = function(pizza, k) {
     
         let ans = 0;
         for (let newRow = i; newRow < m - 1; newRow++) {
-            if (appleCount[newRow + 1][j] === appleCount[i][j]) continue; // top piece has no apples 
+            if (appleCount[newRow + 1][j] === appleCount[i][j]) continue; 
             ans = (ans + dp(newRow + 1, j, k - 1)) % mod;
         }
         for (let newCol = j; newCol < n - 1; newCol++) {
-            if (appleCount[i][newCol + 1] === appleCount[i][j]) continue; // left piece has no apples
+            if (appleCount[i][newCol + 1] === appleCount[i][j]) continue; 
             ans = (ans + dp(i, newCol + 1, k - 1)) % mod;
         }
         return memo[i][j][k] = ans;
