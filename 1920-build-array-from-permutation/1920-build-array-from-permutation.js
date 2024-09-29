@@ -3,10 +3,11 @@
  * @return {number[]}
  */
 var buildArray = function(nums) {
-    let ans = [];
+    let res = new Array(nums.length).fill(0);
     
-    for(let i = 0; i < nums.length; i++){
-        ans[i] = nums[nums[i]];
-    }
-    return ans
+    nums.forEach((el,index)=>{
+        res[index] = nums[el]
+    });
+    
+    return res;
 };
