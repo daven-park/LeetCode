@@ -1,7 +1,6 @@
 
 var MyHashMap = function() {
     this.map = {};
-
 };
 
 /** 
@@ -11,7 +10,6 @@ var MyHashMap = function() {
  */
 MyHashMap.prototype.put = function(key, value) {
     this.map[key] = value;
-
 };
 
 /** 
