@@ -7,7 +7,6 @@ var checkSubarraySum = function(nums, k) {
     const set = new Set();
 	let sum = 0
 	let temp = 0;
-	
 	for (let i = 0; i < nums.length; i++) {
 		sum += nums[i];
         sum %= k;
