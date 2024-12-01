@@ -10,6 +10,7 @@ var checkSubarraySum = function(nums, k) {
 	
 	for (let i = 0; i < nums.length; i++) {
 		sum += nums[i];
+        
         sum %= k;
         
 		if(set.has(sum)) return true;
