@@ -13,4 +13,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0941-sort-array-by-parity](https://github.com/daven-park/LeetCode/tree/master/0941-sort-array-by-parity) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/daven-park/LeetCode/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/daven-park/LeetCode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/daven-park/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
