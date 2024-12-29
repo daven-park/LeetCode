@@ -5,6 +5,7 @@
 var sortArrayByParity = function(nums) {
     let evenArr = [];
     let len = nums.length;
+    
     for(let i = 0; i < len; i++){
         let cur = nums.shift();
         if(cur % 2 === 0){
