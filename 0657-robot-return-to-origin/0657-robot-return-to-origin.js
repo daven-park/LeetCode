@@ -3,8 +3,7 @@
  * @return {boolean}
  */
 var judgeCircle = function(moves) {
-    let x = 0;
-    let y = 0;
+    let [x, y] = [0, 0]
     for(let i = 0; i < moves.length; i++){
         if(moves[i] === 'U') x += 1;
         else if(moves[i] === 'D') x -= 1
