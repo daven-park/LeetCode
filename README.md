@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/daven-park/LeetCode/tree/master/0079-word-search) |
+| [0169-majority-element](https://github.com/daven-park/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/daven-park/LeetCode/tree/master/0189-rotate-array) |
 | [0376-wiggle-subsequence](https://github.com/daven-park/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [0645-set-mismatch](https://github.com/daven-park/LeetCode/tree/master/0645-set-mismatch) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/daven-park/LeetCode/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/daven-park/LeetCode/tree/master/0645-set-mismatch) |
 | [0941-sort-array-by-parity](https://github.com/daven-park/LeetCode/tree/master/0941-sort-array-by-parity) |
 ## Math
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/daven-park/LeetCode/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/daven-park/LeetCode/tree/master/0645-set-mismatch) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/daven-park/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Bit Manipulation
@@ -96,4 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/daven-park/LeetCode/tree/master/0079-word-search) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/daven-park/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/daven-park/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
