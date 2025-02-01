@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/daven-park/LeetCode/tree/master/0045-jump-game-ii) |
 | [0079-word-search](https://github.com/daven-park/LeetCode/tree/master/0079-word-search) |
+| [0118-pascals-triangle](https://github.com/daven-park/LeetCode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/daven-park/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/daven-park/LeetCode/tree/master/0189-rotate-array) |
 | [0376-wiggle-subsequence](https://github.com/daven-park/LeetCode/tree/master/0376-wiggle-subsequence) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/daven-park/LeetCode/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/daven-park/LeetCode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/daven-park/LeetCode/tree/master/0118-pascals-triangle) |
 | [0376-wiggle-subsequence](https://github.com/daven-park/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/daven-park/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Memoization
