@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/daven-park/LeetCode/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/daven-park/LeetCode/tree/master/0274-h-index) |
 | [0376-wiggle-subsequence](https://github.com/daven-park/LeetCode/tree/master/0376-wiggle-subsequence) |
+| [0380-insert-delete-getrandom-o1](https://github.com/daven-park/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0645-set-mismatch](https://github.com/daven-park/LeetCode/tree/master/0645-set-mismatch) |
 | [0941-sort-array-by-parity](https://github.com/daven-park/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1041-available-captures-for-rook](https://github.com/daven-park/LeetCode/tree/master/1041-available-captures-for-rook) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/daven-park/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/daven-park/LeetCode/tree/master/0189-rotate-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/daven-park/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/daven-park/LeetCode/tree/master/0169-majority-element) |
+| [0380-insert-delete-getrandom-o1](https://github.com/daven-park/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0645-set-mismatch](https://github.com/daven-park/LeetCode/tree/master/0645-set-mismatch) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/daven-park/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Bit Manipulation
@@ -123,4 +126,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/daven-park/LeetCode/tree/master/0274-h-index) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/daven-park/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/daven-park/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
