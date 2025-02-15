@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/daven-park/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0645-set-mismatch](https://github.com/daven-park/LeetCode/tree/master/0645-set-mismatch) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/daven-park/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/daven-park/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/daven-park/LeetCode/tree/master/0079-word-search) |
 | [0657-robot-return-to-origin](https://github.com/daven-park/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/daven-park/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2465-shifting-letters-ii](https://github.com/daven-park/LeetCode/tree/master/2465-shifting-letters-ii) |
 ## Prefix Sum
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/daven-park/LeetCode/tree/master/0169-majority-element) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/daven-park/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Counting Sort
 |  |
 | ------- |
