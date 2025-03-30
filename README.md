@@ -89,12 +89,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/daven-park/LeetCode/tree/master/0079-word-search) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/daven-park/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/daven-park/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/daven-park/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/daven-park/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/daven-park/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/daven-park/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/daven-park/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/daven-park/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Union Find
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/daven-park/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/daven-park/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Greedy
 |  |
@@ -184,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2326-sum-of-scores-of-built-strings](https://github.com/daven-park/LeetCode/tree/master/2326-sum-of-scores-of-built-strings) |
+## Topological Sort
+|  |
+| ------- |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/daven-park/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 <!---LeetCode Topics End-->
