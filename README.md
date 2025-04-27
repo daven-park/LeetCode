@@ -82,11 +82,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1532-reformat-the-string](https://github.com/daven-park/LeetCode/tree/master/1532-reformat-the-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/daven-park/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/daven-park/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/daven-park/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/daven-park/LeetCode/tree/master/2326-sum-of-scores-of-built-strings) |
 | [2465-shifting-letters-ii](https://github.com/daven-park/LeetCode/tree/master/2465-shifting-letters-ii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/daven-park/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2465-shifting-letters-ii](https://github.com/daven-park/LeetCode/tree/master/2465-shifting-letters-ii) |
 ## Depth-First Search
 |  |
@@ -129,12 +131,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/daven-park/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/daven-park/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/daven-park/LeetCode/tree/master/2326-sum-of-scores-of-built-strings) |
 ## Sliding Window
 |  |
 | ------- |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/daven-park/LeetCode/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/daven-park/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/daven-park/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Backtracking
 |  |
 | ------- |
