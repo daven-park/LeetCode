@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0038-count-and-say](https://github.com/daven-park/LeetCode/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/daven-park/LeetCode/tree/master/0079-word-search) |
+| [0214-shortest-palindrome](https://github.com/daven-park/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0657-robot-return-to-origin](https://github.com/daven-park/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0857-positions-of-large-groups](https://github.com/daven-park/LeetCode/tree/master/0857-positions-of-large-groups) |
 | [1250-longest-common-subsequence](https://github.com/daven-park/LeetCode/tree/master/1250-longest-common-subsequence) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/daven-park/LeetCode/tree/master/0214-shortest-palindrome) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/daven-park/LeetCode/tree/master/2326-sum-of-scores-of-built-strings) |
 ## Suffix Array
 |  |
@@ -194,10 +196,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/daven-park/LeetCode/tree/master/0214-shortest-palindrome) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/daven-park/LeetCode/tree/master/2326-sum-of-scores-of-built-strings) |
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/daven-park/LeetCode/tree/master/0214-shortest-palindrome) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/daven-park/LeetCode/tree/master/2326-sum-of-scores-of-built-strings) |
 ## Topological Sort
 |  |
