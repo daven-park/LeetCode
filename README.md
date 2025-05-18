@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/daven-park/LeetCode/tree/master/0645-set-mismatch) |
 | [0941-sort-array-by-parity](https://github.com/daven-park/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1041-available-captures-for-rook](https://github.com/daven-park/LeetCode/tree/master/1041-available-captures-for-rook) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/daven-park/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/daven-park/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2058-concatenation-of-array](https://github.com/daven-park/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2465-shifting-letters-ii](https://github.com/daven-park/LeetCode/tree/master/2465-shifting-letters-ii) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/daven-park/LeetCode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/daven-park/LeetCode/tree/master/0645-set-mismatch) |
 | [0941-sort-array-by-parity](https://github.com/daven-park/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/daven-park/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2846-robot-collisions](https://github.com/daven-park/LeetCode/tree/master/2846-robot-collisions) |
 ## Math
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/daven-park/LeetCode/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/daven-park/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0645-set-mismatch](https://github.com/daven-park/LeetCode/tree/master/0645-set-mismatch) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/daven-park/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/daven-park/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1904-second-largest-digit-in-a-string](https://github.com/daven-park/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/daven-park/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/daven-park/LeetCode/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/daven-park/LeetCode/tree/master/0561-array-partition) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/daven-park/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Design
 |  |
 | ------- |
