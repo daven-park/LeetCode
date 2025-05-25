@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/daven-park/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/daven-park/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2058-concatenation-of-array](https://github.com/daven-park/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/daven-park/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2448-count-number-of-bad-pairs](https://github.com/daven-park/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/daven-park/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2846-robot-collisions](https://github.com/daven-park/LeetCode/tree/master/2846-robot-collisions) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/daven-park/LeetCode/tree/master/0045-jump-game-ii) |
 | [0376-wiggle-subsequence](https://github.com/daven-park/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [0561-array-partition](https://github.com/daven-park/LeetCode/tree/master/0561-array-partition) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/daven-park/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 ## Simulation
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/daven-park/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/daven-park/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/daven-park/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/daven-park/LeetCode/tree/master/2326-sum-of-scores-of-built-strings) |
 ## Sliding Window
 |  |
