@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/daven-park/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/daven-park/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/daven-park/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/daven-park/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -194,11 +195,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/daven-park/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/daven-park/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/daven-park/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 ## Binary Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/daven-park/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/daven-park/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/daven-park/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 ## Rolling Hash
