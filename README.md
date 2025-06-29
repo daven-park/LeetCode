@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/daven-park/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0561-array-partition](https://github.com/daven-park/LeetCode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/daven-park/LeetCode/tree/master/0645-set-mismatch) |
+| [0779-max-chunks-to-make-sorted-ii](https://github.com/daven-park/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0941-sort-array-by-parity](https://github.com/daven-park/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1041-available-captures-for-rook](https://github.com/daven-park/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/daven-park/LeetCode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/daven-park/LeetCode/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/daven-park/LeetCode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/daven-park/LeetCode/tree/master/0645-set-mismatch) |
+| [0779-max-chunks-to-make-sorted-ii](https://github.com/daven-park/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0941-sort-array-by-parity](https://github.com/daven-park/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/daven-park/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2846-robot-collisions](https://github.com/daven-park/LeetCode/tree/master/2846-robot-collisions) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/daven-park/LeetCode/tree/master/0045-jump-game-ii) |
 | [0376-wiggle-subsequence](https://github.com/daven-park/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [0561-array-partition](https://github.com/daven-park/LeetCode/tree/master/0561-array-partition) |
+| [0779-max-chunks-to-make-sorted-ii](https://github.com/daven-park/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/daven-park/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 ## Simulation
 |  |
@@ -230,9 +233,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0779-max-chunks-to-make-sorted-ii](https://github.com/daven-park/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [2846-robot-collisions](https://github.com/daven-park/LeetCode/tree/master/2846-robot-collisions) |
 ## Linked List
 |  |
 | ------- |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/daven-park/LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0779-max-chunks-to-make-sorted-ii](https://github.com/daven-park/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 <!---LeetCode Topics End-->
