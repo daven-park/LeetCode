@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/daven-park/LeetCode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/daven-park/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/daven-park/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1582-design-browser-history](https://github.com/daven-park/LeetCode/tree/master/1582-design-browser-history) |
 | [2058-concatenation-of-array](https://github.com/daven-park/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/daven-park/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2448-count-number-of-bad-pairs](https://github.com/daven-park/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/daven-park/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [1582-design-browser-history](https://github.com/daven-park/LeetCode/tree/master/1582-design-browser-history) |
 ## Randomized
 |  |
 | ------- |
@@ -234,13 +236,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/daven-park/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
+| [1582-design-browser-history](https://github.com/daven-park/LeetCode/tree/master/1582-design-browser-history) |
 | [2846-robot-collisions](https://github.com/daven-park/LeetCode/tree/master/2846-robot-collisions) |
 ## Linked List
 |  |
 | ------- |
+| [1582-design-browser-history](https://github.com/daven-park/LeetCode/tree/master/1582-design-browser-history) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/daven-park/LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/daven-park/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/daven-park/LeetCode/tree/master/1582-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/daven-park/LeetCode/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
