@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/daven-park/LeetCode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/daven-park/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/daven-park/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1064-smallest-integer-divisible-by-k](https://github.com/daven-park/LeetCode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/daven-park/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2448-count-number-of-bad-pairs](https://github.com/daven-park/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 ## Dynamic Programming
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/daven-park/LeetCode/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/daven-park/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0645-set-mismatch](https://github.com/daven-park/LeetCode/tree/master/0645-set-mismatch) |
+| [1064-smallest-integer-divisible-by-k](https://github.com/daven-park/LeetCode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/daven-park/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/daven-park/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1904-second-largest-digit-in-a-string](https://github.com/daven-park/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
