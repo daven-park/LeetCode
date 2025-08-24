@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/daven-park/LeetCode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/daven-park/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/daven-park/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0537-complex-number-multiplication](https://github.com/daven-park/LeetCode/tree/master/0537-complex-number-multiplication) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/daven-park/LeetCode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/daven-park/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2448-count-number-of-bad-pairs](https://github.com/daven-park/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/daven-park/LeetCode/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/daven-park/LeetCode/tree/master/0079-word-search) |
 | [0214-shortest-palindrome](https://github.com/daven-park/LeetCode/tree/master/0214-shortest-palindrome) |
+| [0537-complex-number-multiplication](https://github.com/daven-park/LeetCode/tree/master/0537-complex-number-multiplication) |
 | [0657-robot-return-to-origin](https://github.com/daven-park/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0857-positions-of-large-groups](https://github.com/daven-park/LeetCode/tree/master/0857-positions-of-large-groups) |
 | [1250-longest-common-subsequence](https://github.com/daven-park/LeetCode/tree/master/1250-longest-common-subsequence) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0537-complex-number-multiplication](https://github.com/daven-park/LeetCode/tree/master/0537-complex-number-multiplication) |
 | [0657-robot-return-to-origin](https://github.com/daven-park/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1041-available-captures-for-rook](https://github.com/daven-park/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [2058-concatenation-of-array](https://github.com/daven-park/LeetCode/tree/master/2058-concatenation-of-array) |
