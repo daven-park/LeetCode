@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/daven-park/LeetCode/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/daven-park/LeetCode/tree/master/0045-jump-game-ii) |
+| [0051-n-queens](https://github.com/daven-park/LeetCode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/daven-park/LeetCode/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/daven-park/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/daven-park/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/daven-park/LeetCode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/daven-park/LeetCode/tree/master/0079-word-search) |
 ## Matrix
 |  |
