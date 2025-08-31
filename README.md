@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/daven-park/LeetCode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/daven-park/LeetCode/tree/master/0645-set-mismatch) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/daven-park/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
+| [0821-bricks-falling-when-hit](https://github.com/daven-park/LeetCode/tree/master/0821-bricks-falling-when-hit) |
 | [0941-sort-array-by-parity](https://github.com/daven-park/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1041-available-captures-for-rook](https://github.com/daven-park/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/daven-park/LeetCode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0821-bricks-falling-when-hit](https://github.com/daven-park/LeetCode/tree/master/0821-bricks-falling-when-hit) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/daven-park/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2793-count-the-number-of-complete-components](https://github.com/daven-park/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Graph
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/daven-park/LeetCode/tree/master/0036-valid-sudoku) |
 | [0079-word-search](https://github.com/daven-park/LeetCode/tree/master/0079-word-search) |
+| [0821-bricks-falling-when-hit](https://github.com/daven-park/LeetCode/tree/master/0821-bricks-falling-when-hit) |
 | [1041-available-captures-for-rook](https://github.com/daven-park/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/daven-park/LeetCode/tree/master/2193-count-fertile-pyramids-in-a-land) |
 ## Divide and Conquer
