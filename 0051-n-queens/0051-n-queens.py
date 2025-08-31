@@ -3,8 +3,8 @@ class Solution:
         answer = []
         pos = [0] * N
         flag_a = [False] * N
-        flag_b = [False] * ((N * 2) - 1)
-        flag_c = [False] * ((N * 2) - 1)
+        flag_b = [False] * (N * 2 - 1)
+        flag_c = [False] * (N * 2 - 1)
 
         def put():
             board = []
@@ -14,10 +14,9 @@ class Solution:
                 board.append("".join(row))
             answer.append(board)
 
-                
         def setting(i):
             for j in range(N):
-                if (not flag_a[j] and not flag_b[i + j] and not flag_c[i - j + (N - 1)]):
+                if (not flag_a[j] and not flag_b[i + j] and not flag_c[i - j + N - 1]):
                     pos[i] = j
                     if i == N - 1:
                         put()
