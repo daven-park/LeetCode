@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/daven-park/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1582-design-browser-history](https://github.com/daven-park/LeetCode/tree/master/1582-design-browser-history) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/daven-park/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/daven-park/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2058-concatenation-of-array](https://github.com/daven-park/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/daven-park/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/daven-park/LeetCode/tree/master/2193-count-fertile-pyramids-in-a-land) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/daven-park/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/daven-park/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/daven-park/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/daven-park/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/daven-park/LeetCode/tree/master/2193-count-fertile-pyramids-in-a-land) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/daven-park/LeetCode/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 ## Memoization
