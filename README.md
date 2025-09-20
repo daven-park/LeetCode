@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2480-find-subarrays-with-equal-sum](https://github.com/daven-park/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2846-robot-collisions](https://github.com/daven-park/LeetCode/tree/master/2846-robot-collisions) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/daven-park/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/daven-park/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/daven-park/LeetCode/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 ## Two Pointers
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/daven-park/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/daven-park/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2846-robot-collisions](https://github.com/daven-park/LeetCode/tree/master/2846-robot-collisions) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/daven-park/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Math
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/daven-park/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/daven-park/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/daven-park/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/daven-park/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Simulation
 |  |
 | ------- |
