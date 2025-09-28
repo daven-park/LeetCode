@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/daven-park/LeetCode/tree/master/0645-set-mismatch) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/daven-park/LeetCode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/daven-park/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/daven-park/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/daven-park/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1848-sum-of-unique-elements](https://github.com/daven-park/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1904-second-largest-digit-in-a-string](https://github.com/daven-park/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/daven-park/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/daven-park/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/daven-park/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/daven-park/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/daven-park/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/daven-park/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/daven-park/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/daven-park/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/daven-park/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/daven-park/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Union Find
 |  |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/daven-park/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/daven-park/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/daven-park/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/daven-park/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
