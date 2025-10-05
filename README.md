@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/daven-park/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0561-array-partition](https://github.com/daven-park/LeetCode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/daven-park/LeetCode/tree/master/0645-set-mismatch) |
+| [0747-min-cost-climbing-stairs](https://github.com/daven-park/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/daven-park/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0821-bricks-falling-when-hit](https://github.com/daven-park/LeetCode/tree/master/0821-bricks-falling-when-hit) |
 | [0941-sort-array-by-parity](https://github.com/daven-park/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/daven-park/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/daven-park/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0376-wiggle-subsequence](https://github.com/daven-park/LeetCode/tree/master/0376-wiggle-subsequence) |
+| [0747-min-cost-climbing-stairs](https://github.com/daven-park/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/daven-park/LeetCode/tree/master/1013-fibonacci-number) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/daven-park/LeetCode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1250-longest-common-subsequence](https://github.com/daven-park/LeetCode/tree/master/1250-longest-common-subsequence) |
