@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/daven-park/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/daven-park/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0537-complex-number-multiplication](https://github.com/daven-park/LeetCode/tree/master/0537-complex-number-multiplication) |
+| [0728-self-dividing-numbers](https://github.com/daven-park/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0903-implement-rand10-using-rand7](https://github.com/daven-park/LeetCode/tree/master/0903-implement-rand10-using-rand7) |
 | [1013-fibonacci-number](https://github.com/daven-park/LeetCode/tree/master/1013-fibonacci-number) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/daven-park/LeetCode/tree/master/1064-smallest-integer-divisible-by-k) |
