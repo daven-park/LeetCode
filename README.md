@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/daven-park/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0821-bricks-falling-when-hit](https://github.com/daven-park/LeetCode/tree/master/0821-bricks-falling-when-hit) |
 | [0833-bus-routes](https://github.com/daven-park/LeetCode/tree/master/0833-bus-routes) |
+| [0879-maximize-distance-to-closest-person](https://github.com/daven-park/LeetCode/tree/master/0879-maximize-distance-to-closest-person) |
 | [0941-sort-array-by-parity](https://github.com/daven-park/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1041-available-captures-for-rook](https://github.com/daven-park/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/daven-park/LeetCode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
