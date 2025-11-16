@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/daven-park/LeetCode/tree/master/0189-rotate-array) |
 | [0941-sort-array-by-parity](https://github.com/daven-park/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [1454-remove-palindromic-subsequences](https://github.com/daven-park/LeetCode/tree/master/1454-remove-palindromic-subsequences) |
 ## Sorting
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/daven-park/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/daven-park/LeetCode/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/daven-park/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1454-remove-palindromic-subsequences](https://github.com/daven-park/LeetCode/tree/master/1454-remove-palindromic-subsequences) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/daven-park/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1532-reformat-the-string](https://github.com/daven-park/LeetCode/tree/master/1532-reformat-the-string) |
 | [1637-string-compression-ii](https://github.com/daven-park/LeetCode/tree/master/1637-string-compression-ii) |
