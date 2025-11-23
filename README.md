@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/daven-park/LeetCode/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/daven-park/LeetCode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/daven-park/LeetCode/tree/master/0127-word-ladder) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/daven-park/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0214-shortest-palindrome](https://github.com/daven-park/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0537-complex-number-multiplication](https://github.com/daven-park/LeetCode/tree/master/0537-complex-number-multiplication) |
 | [0657-robot-return-to-origin](https://github.com/daven-park/LeetCode/tree/master/0657-robot-return-to-origin) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/daven-park/LeetCode/tree/master/0079-word-search) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/daven-park/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/daven-park/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0513-find-bottom-left-tree-value](https://github.com/daven-park/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/daven-park/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/daven-park/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/daven-park/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0380-insert-delete-getrandom-o1](https://github.com/daven-park/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1582-design-browser-history](https://github.com/daven-park/LeetCode/tree/master/1582-design-browser-history) |
 ## Randomized
@@ -343,4 +346,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/daven-park/LeetCode/tree/master/0319-bulb-switcher) |
+## Trie
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/daven-park/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
