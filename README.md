@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/daven-park/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1582-design-browser-history](https://github.com/daven-park/LeetCode/tree/master/1582-design-browser-history) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/daven-park/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1705-maximum-number-of-eaten-apples](https://github.com/daven-park/LeetCode/tree/master/1705-maximum-number-of-eaten-apples) |
 | [1848-sum-of-unique-elements](https://github.com/daven-park/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/daven-park/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2058-concatenation-of-array](https://github.com/daven-park/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/daven-park/LeetCode/tree/master/0561-array-partition) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/daven-park/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/daven-park/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1705-maximum-number-of-eaten-apples](https://github.com/daven-park/LeetCode/tree/master/1705-maximum-number-of-eaten-apples) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/daven-park/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/daven-park/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Simulation
@@ -364,4 +366,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/daven-park/LeetCode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1705-maximum-number-of-eaten-apples](https://github.com/daven-park/LeetCode/tree/master/1705-maximum-number-of-eaten-apples) |
 <!---LeetCode Topics End-->
