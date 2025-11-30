@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/daven-park/LeetCode/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/daven-park/LeetCode/tree/master/0051-n-queens) |
 | [0059-spiral-matrix-ii](https://github.com/daven-park/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0078-subsets](https://github.com/daven-park/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/daven-park/LeetCode/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/daven-park/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/daven-park/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/daven-park/LeetCode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/daven-park/LeetCode/tree/master/0137-single-number-ii) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/daven-park/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/daven-park/LeetCode/tree/master/0645-set-mismatch) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/daven-park/LeetCode/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/daven-park/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/daven-park/LeetCode/tree/master/0079-word-search) |
 ## Matrix
 |  |
