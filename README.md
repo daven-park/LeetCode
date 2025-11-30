@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/daven-park/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1637-string-compression-ii](https://github.com/daven-park/LeetCode/tree/master/1637-string-compression-ii) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/daven-park/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/daven-park/LeetCode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/daven-park/LeetCode/tree/master/2193-count-fertile-pyramids-in-a-land) |
 | [2746-decremental-string-concatenation](https://github.com/daven-park/LeetCode/tree/master/2746-decremental-string-concatenation) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/daven-park/LeetCode/tree/master/3525-maximum-energy-boost-from-two-drinks) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/daven-park/LeetCode/tree/master/0137-single-number-ii) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/daven-park/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/daven-park/LeetCode/tree/master/0645-set-mismatch) |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/daven-park/LeetCode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## String
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1637-string-compression-ii](https://github.com/daven-park/LeetCode/tree/master/1637-string-compression-ii) |
 | [1904-second-largest-digit-in-a-string](https://github.com/daven-park/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/daven-park/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/daven-park/LeetCode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/daven-park/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2226-rings-and-rods](https://github.com/daven-park/LeetCode/tree/master/2226-rings-and-rods) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/daven-park/LeetCode/tree/master/2326-sum-of-scores-of-built-strings) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/daven-park/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/daven-park/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/daven-park/LeetCode/tree/master/0079-word-search) |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/daven-park/LeetCode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Matrix
 |  |
 | ------- |
@@ -356,4 +360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/daven-park/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+## Bitmask
+|  |
+| ------- |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/daven-park/LeetCode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 <!---LeetCode Topics End-->
