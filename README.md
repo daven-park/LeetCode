@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/daven-park/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1923-longest-common-subpath](https://github.com/daven-park/LeetCode/tree/master/1923-longest-common-subpath) |
 | [2058-concatenation-of-array](https://github.com/daven-park/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/daven-park/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/daven-park/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/daven-park/LeetCode/tree/master/2193-count-fertile-pyramids-in-a-land) |
 | [2448-count-number-of-bad-pairs](https://github.com/daven-park/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/daven-park/LeetCode/tree/master/1013-fibonacci-number) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/daven-park/LeetCode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/daven-park/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/daven-park/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2448-count-number-of-bad-pairs](https://github.com/daven-park/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/daven-park/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Dynamic Programming
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1637-string-compression-ii](https://github.com/daven-park/LeetCode/tree/master/1637-string-compression-ii) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/daven-park/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/daven-park/LeetCode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/daven-park/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/daven-park/LeetCode/tree/master/2193-count-fertile-pyramids-in-a-land) |
 | [2746-decremental-string-concatenation](https://github.com/daven-park/LeetCode/tree/master/2746-decremental-string-concatenation) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/daven-park/LeetCode/tree/master/3525-maximum-energy-boost-from-two-drinks) |
