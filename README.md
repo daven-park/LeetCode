@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2480-find-subarrays-with-equal-sum](https://github.com/daven-park/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2746-decremental-string-concatenation](https://github.com/daven-park/LeetCode/tree/master/2746-decremental-string-concatenation) |
 | [2846-robot-collisions](https://github.com/daven-park/LeetCode/tree/master/2846-robot-collisions) |
+| [2951-find-the-peaks](https://github.com/daven-park/LeetCode/tree/master/2951-find-the-peaks) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/daven-park/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/daven-park/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/daven-park/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -384,4 +385,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1705-maximum-number-of-eaten-apples](https://github.com/daven-park/LeetCode/tree/master/1705-maximum-number-of-eaten-apples) |
+## Enumeration
+|  |
+| ------- |
+| [2951-find-the-peaks](https://github.com/daven-park/LeetCode/tree/master/2951-find-the-peaks) |
 <!---LeetCode Topics End-->
