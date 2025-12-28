@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/daven-park/LeetCode/tree/master/0645-set-mismatch) |
 | [0747-min-cost-climbing-stairs](https://github.com/daven-park/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/daven-park/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
+| [0798-smallest-rotation-with-highest-score](https://github.com/daven-park/LeetCode/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0821-bricks-falling-when-hit](https://github.com/daven-park/LeetCode/tree/master/0821-bricks-falling-when-hit) |
 | [0833-bus-routes](https://github.com/daven-park/LeetCode/tree/master/0833-bus-routes) |
 | [0879-maximize-distance-to-closest-person](https://github.com/daven-park/LeetCode/tree/master/0879-maximize-distance-to-closest-person) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0798-smallest-rotation-with-highest-score](https://github.com/daven-park/LeetCode/tree/master/0798-smallest-rotation-with-highest-score) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/daven-park/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2465-shifting-letters-ii](https://github.com/daven-park/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/daven-park/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
