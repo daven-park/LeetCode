@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/daven-park/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1582-design-browser-history](https://github.com/daven-park/LeetCode/tree/master/1582-design-browser-history) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/daven-park/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/daven-park/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1705-maximum-number-of-eaten-apples](https://github.com/daven-park/LeetCode/tree/master/1705-maximum-number-of-eaten-apples) |
 | [1848-sum-of-unique-elements](https://github.com/daven-park/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/daven-park/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/daven-park/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/daven-park/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/daven-park/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/daven-park/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/daven-park/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1904-second-largest-digit-in-a-string](https://github.com/daven-park/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/daven-park/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/daven-park/LeetCode/tree/master/0137-single-number-ii) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/daven-park/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/daven-park/LeetCode/tree/master/0645-set-mismatch) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/daven-park/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/daven-park/LeetCode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## String
 |  |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/daven-park/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1532-reformat-the-string](https://github.com/daven-park/LeetCode/tree/master/1532-reformat-the-string) |
 | [1637-string-compression-ii](https://github.com/daven-park/LeetCode/tree/master/1637-string-compression-ii) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/daven-park/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1904-second-largest-digit-in-a-string](https://github.com/daven-park/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/daven-park/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/daven-park/LeetCode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
@@ -275,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/daven-park/LeetCode/tree/master/0169-majority-element) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/daven-park/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/daven-park/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/daven-park/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2448-count-number-of-bad-pairs](https://github.com/daven-park/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
