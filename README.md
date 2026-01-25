@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/daven-park/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/daven-park/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1705-maximum-number-of-eaten-apples](https://github.com/daven-park/LeetCode/tree/master/1705-maximum-number-of-eaten-apples) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/daven-park/LeetCode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1848-sum-of-unique-elements](https://github.com/daven-park/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/daven-park/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1923-longest-common-subpath](https://github.com/daven-park/LeetCode/tree/master/1923-longest-common-subpath) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/daven-park/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/daven-park/LeetCode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1923-longest-common-subpath](https://github.com/daven-park/LeetCode/tree/master/1923-longest-common-subpath) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/daven-park/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/daven-park/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
