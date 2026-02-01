@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-bricks-falling-when-hit](https://github.com/daven-park/LeetCode/tree/master/0821-bricks-falling-when-hit) |
 | [0833-bus-routes](https://github.com/daven-park/LeetCode/tree/master/0833-bus-routes) |
 | [0879-maximize-distance-to-closest-person](https://github.com/daven-park/LeetCode/tree/master/0879-maximize-distance-to-closest-person) |
+| [0892-surface-area-of-3d-shapes](https://github.com/daven-park/LeetCode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0941-sort-array-by-parity](https://github.com/daven-park/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1041-available-captures-for-rook](https://github.com/daven-park/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/daven-park/LeetCode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/daven-park/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0537-complex-number-multiplication](https://github.com/daven-park/LeetCode/tree/master/0537-complex-number-multiplication) |
 | [0728-self-dividing-numbers](https://github.com/daven-park/LeetCode/tree/master/0728-self-dividing-numbers) |
+| [0892-surface-area-of-3d-shapes](https://github.com/daven-park/LeetCode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0903-implement-rand10-using-rand7](https://github.com/daven-park/LeetCode/tree/master/0903-implement-rand10-using-rand7) |
 | [1013-fibonacci-number](https://github.com/daven-park/LeetCode/tree/master/1013-fibonacci-number) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/daven-park/LeetCode/tree/master/1064-smallest-integer-divisible-by-k) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/daven-park/LeetCode/tree/master/0079-word-search) |
 | [0566-reshape-the-matrix](https://github.com/daven-park/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0821-bricks-falling-when-hit](https://github.com/daven-park/LeetCode/tree/master/0821-bricks-falling-when-hit) |
+| [0892-surface-area-of-3d-shapes](https://github.com/daven-park/LeetCode/tree/master/0892-surface-area-of-3d-shapes) |
 | [1041-available-captures-for-rook](https://github.com/daven-park/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/daven-park/LeetCode/tree/master/2193-count-fertile-pyramids-in-a-land) |
 ## Divide and Conquer
@@ -398,4 +401,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2951-find-the-peaks](https://github.com/daven-park/LeetCode/tree/master/2951-find-the-peaks) |
+## Geometry
+|  |
+| ------- |
+| [0892-surface-area-of-3d-shapes](https://github.com/daven-park/LeetCode/tree/master/0892-surface-area-of-3d-shapes) |
 <!---LeetCode Topics End-->
