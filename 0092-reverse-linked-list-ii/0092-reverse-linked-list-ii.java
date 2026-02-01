@@ -13,10 +13,10 @@ class Solution {
        if (head == null) return head;
        if (left == right) return head;
 
-        ListNode dummy = new ListNode(0);
-        dummy.next = head;
+        ListNode temp = new ListNode(0);
+        temp.next = head;
 
-        ListNode prev = dummy;
+        ListNode prev = temp;
         for (int i = 1; i < left; i++) {
             prev = prev.next;
         }
@@ -29,6 +29,6 @@ class Solution {
             prev.next = move;              
         }
 
-        return dummy.next;
+        return temp.next;
     }
 }
